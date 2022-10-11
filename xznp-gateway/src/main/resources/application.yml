@@ -1,0 +1,30 @@
+server:
+  port: 88
+
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+
+    gateway:
+      routes:
+        - id: goods
+          uri: lb://goods
+          predicates:
+              - Path=/goods/**
+        - id: user-customer
+          uri: lb://user
+          predicates:
+            - Path=/customer/**
+        - id: user-staff
+          uri: lb://user
+          predicates:
+            - Path=/staff/**
+
+
+
+  application:
+    name: gateway
+

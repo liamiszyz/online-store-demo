@@ -1,0 +1,12 @@
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/UserApplication.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/customer/service/impl/CustomerServiceImpl.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/customer/service/ICustomerService.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/staff/entity/TsStaffInfo.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/staff/controller/TsStaffInfoController.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/staff/mapper/TsStaffInfoMapper.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/staff/service/impl/TsStaffInfoServiceImpl.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/customer/entity/Customer.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/staff/service/ITsStaffInfoService.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/CodeGenerator.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/customer/mapper/CustomerMapper.java
+/Users/liamzhang/IdeaProjects/xznp/xznp-user/src/main/java/com/xznp/mall/customer/controller/CustomerController.java
